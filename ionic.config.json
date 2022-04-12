@@ -1,0 +1,7 @@
+{
+  "name": "figtest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
